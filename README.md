@@ -12,8 +12,12 @@
 - homebrew: https://brew.sh
 - moom: https://xclient.info/s/moom.html  
 - alfred: https://xclient.info/s/alfred.html  
+- magnet: https://xclient.info/s/magnet.html
 - appcleaner: https://freemacsoft.net/appcleaner/
 - Qtopencoreconfig: https://github.com/ic005k/QtOpenCoreConfig
+- hackintool: https://github.com/headkaze/Hackintool/releases
+
+> brew install you-get youtube-dl mpv iina google-chrome telegram-desktop 
   
 #### 问题与解答  
 1. xcrun: error 
@@ -25,5 +29,7 @@
 > 如果解决不了问题,执行一下命令
 > sudo xcode-select -switch /
  
-2. 
+2. 任何源
+> sudo spctl --master-disable
 
+3. 
