@@ -19,7 +19,8 @@
 - ohmyzsh: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 > xcode-select --install 
-> brew install you-get youtube-dl mpv iina google-chrome telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintosh zsh zsh-syntax-highlighting zsh-autosuggestions uninstallpkg 
+
+> brew install you-get youtube-dl mpv iina google-chrome telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh zsh-syntax-highlighting zsh-autosuggestions uninstallpkg 
 
 #### 问题与解答  
 
@@ -38,4 +39,5 @@
 3. 交换option 和 command按键
 > EFI/OC/kexts-voodooPS2Control.kext/contents/Plugins/voodooPs2keyboard.kext/contents/Info.plist/IOKitPersonalities/Platform Profile/Default/Swap command and option/YES
 
-4. 
+4. alfred最新版(tnt)不能用,改用旧版解决
+5. 系统启动时间很长,根据代码发现是蓝牙驱动的问题,升级到特定的蓝牙驱动或者直接不加载蓝牙驱动
