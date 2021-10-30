@@ -10,17 +10,19 @@
 - 加入蓝牙驱动,启动时间非常长,目前蓝牙未驱动
 - 电池故障,电池未驱动  
 
-#### 常用软件:
+#### 常用软件与配置:
 
 - clashx: https://github.com/yichengchen/clashX
 - homebrew: https://brew.sh
 - magnet: https://xclient.info/s/magnet.html
 - Qtopencoreconfig: https://github.com/ic005k/QtOpenCoreConfig
 - ohmyzsh: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+- hidpi: https://github.com/xzhih/one-key-hidpi
 
 > xcode-select --install 
 
-> brew install you-get youtube-dl mpv iina google-chrome telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh zsh-syntax-highlighting zsh-autosuggestions uninstallpkg 
+> brew install you-get youtube-dl mpv iina google-chrome telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh zsh-syntax-highlighting zsh-autosuggestions uninstallpkg zsh-vi-mode sogouinput
+
 
 #### 问题与解答  
 
