@@ -7,8 +7,8 @@
 
 #### ToDo
 
-- 加入蓝牙驱动,启动时间非常长,目前蓝牙未驱动
-- 电池故障,电池未驱动  
+* [x] 加入蓝牙驱动,启动时间非常长,目前蓝牙未驱动
+* [ ] 电池故障,电池未驱动  
 
 #### 常用软件与配置:
 
@@ -41,7 +41,5 @@
 3. 交换option 和 command按键
 > EFI/OC/kexts-voodooPS2Control.kext/contents/Plugins/voodooPs2keyboard.kext/contents/Info.plist/IOKitPersonalities/Platform Profile/Default/Swap command and option/YES
 
-4. alfred最新版(tnt)不能用,改用旧版解决
-5. 系统启动时间很长,根据代码发现是蓝牙驱动的问题,升级到特定的蓝牙驱动或者直接不加载蓝牙驱动
-6. 
-6. 
+4. alfred最新版(tnt)不能用,改用旧版解决(新版已经解决）
+5. 系统启动时间很长,根据代码发现是蓝牙驱动的问题,升级到特定的蓝牙驱动或者直接不加载蓝牙驱动(新驱动已经解决）
