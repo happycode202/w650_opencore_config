@@ -242,9 +242,9 @@
                     <key>BundlePath</key>
                     <string>BlueToolFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.0</string>
+                    <string>V2.6.1</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/BlueToolFixup</string>
                     <key>MaxKernel</key>
@@ -280,7 +280,7 @@
                     <key>Comment</key>
                     <string>V2.0.1</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -758,8 +758,6 @@
                 <dict>
                     <key>DefaultBackgroundColor</key>
                     <data>AAAAAA==</data>
-                    <key>UIScale</key>
-                    <data>AQ==</data>
                 </dict>
                 <key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
                 <dict>
@@ -1016,6 +1014,8 @@
                 <false/>
                 <key>TextRenderer</key>
                 <string>BuiltinGraphics</string>
+                <key>UIScale</key>
+                <integer>1</integer>
                 <key>UgaPassThrough</key>
                 <false/>
             </dict>
