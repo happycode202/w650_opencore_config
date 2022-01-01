@@ -21,7 +21,7 @@ test
 
 > xcode-select --install 
 
-> brew install you-get youtube-dl mpv iina google-chrome telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh zsh-syntax-highlighting zsh-autosuggestions uninstallpkg zsh-vi-mode sogouinput
+> brew install  google-chrome telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh zsh-syntax-highlighting zsh-autosuggestions uninstallpkg sogouinput node.js you-get yt-dlp mpv iina 
 
 
 #### 问题与解答  
