@@ -1,5 +1,5 @@
 # w650_opencore_config
-
+test
 #### 电脑配置
 
 - cpu:i7-7700
