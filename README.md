@@ -1,5 +1,5 @@
 # w650_opencore_config
-test
+对应系统为Big Sur，wifi驱动也是对应的版本，如果想要安装在Monterey则要自己下载。
 #### 电脑配置
 
 - cpu:i7-7700
@@ -18,6 +18,9 @@ test
 - Qtopencoreconfig: https://github.com/ic005k/QtOpenCoreConfig
 - ohmyzsh: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 - hidpi: https://github.com/xzhih/one-key-hidpi
+- app cleaner: https://freemacsoft.net/appcleaner/
+- The unarchiver: https://theunarchiver.com/
+- [OpenIntelWireless](https://github.com/OpenIntelWireless)/**[itlwm](https://github.com/OpenIntelWireless/itlwm)**
 
 > xcode-select --install 
 
@@ -28,7 +31,7 @@ test
 
 1. xcrun: error 
 > xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun  
- 
+
 > 解决方法  
 > 重装xcode command line
 > xcode-select --install
