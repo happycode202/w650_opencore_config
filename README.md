@@ -12,19 +12,26 @@
 
 #### 常用软件与配置:
 
-- clashx: https://github.com/yichengchen/clashX
-- homebrew: https://brew.sh
-- magnet: https://xclient.info/s/magnet.html
+- sudo spctl --master-disable
+- Clashx: https://github.com/yichengchen/clashX
+- Alfred: https://xclient.info/s/alfred.html#versions
+- Moom: https://xclient.info/s/moom.html
+- Homebrew: https://brew.sh
+- Magnet: https://xclient.info/s/magnet.html
 - Qtopencoreconfig: https://github.com/ic005k/QtOpenCoreConfig
 - ohmyzsh: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 - hidpi: https://github.com/xzhih/one-key-hidpi
-- app cleaner: https://freemacsoft.net/appcleaner/
+- App Cleaner: https://freemacsoft.net/appcleaner/
 - The unarchiver: https://theunarchiver.com/
-- [OpenIntelWireless](https://github.com/OpenIntelWireless)/**[itlwm](https://github.com/OpenIntelWireless/itlwm)**
+-  Itlwm: https://github.com/OpenIntelWireless/itlwm
+- Downie: https://xclient.info/s/downie.html
+- Office : https://xclient.info/s/office-for-mac.html
+- Typora: https://xclient.info/s/typora.html
+- Dash: https://xclient.info/s/dash.html
 
 > xcode-select --install 
 
-> brew install  google-chrome telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh zsh-syntax-highlighting zsh-autosuggestions uninstallpkg sogouinput node.js you-get yt-dlp mpv iina 
+> brew install  google-chrome telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh zsh-syntax-highlighting zsh-autosuggestions uninstallpkg sogouinput  you-get yt-dlp mpv iina eudic 
 
 
 #### 问题与解答  
