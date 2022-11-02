@@ -31,7 +31,7 @@
 
 > xcode-select --install 
 
-> brew install  google-chrome telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh zsh-syntax-highlighting zsh-autosuggestions uninstallpkg sogouinput  you-get yt-dlp mpv iina eudic 
+> brew install  microsoft-edge google-chrome telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh zsh-syntax-highlighting zsh-autosuggestions uninstallpkg sogouinput  you-get yt-dlp mpv iina eudic 
 
 
 #### 问题与解答  
