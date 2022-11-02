@@ -31,7 +31,7 @@
 
 - xcode: `xcode-select --install `
 
-- 仓库内软件：`brew install  google-chrome telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh zsh-syntax-highlighting zsh-autosuggestions uninstallpkg sogouinput  you-get yt-dlp mpv iina eudic neovim intellij-idea`
+- 仓库内软件：`brew install microsoft-edge telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh-syntax-highlighting zsh-autosuggestions uninstallpkg sogouinput  you-get yt-dlp mpv iina eudic neovim intellij-idea`
 
 
 #### 问题与解答  
