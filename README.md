@@ -4,6 +4,7 @@
 
 - cpu:i7-7700
 - gpu:mx150+hd630(独显被屏蔽)
+- wifi:bcm4352
 
 #### ToDo
 
@@ -58,4 +59,3 @@
 - 显示隐藏文件：command+shift+.
 - 显示路径栏：option+command+p
 - 复制路径：option+command+c
-- 
