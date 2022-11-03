@@ -19,7 +19,8 @@
 - Homebrew: https://brew.sh
 - Magnet: https://xclient.info/s/magnet.html
 - Qtopencoreconfig: https://github.com/ic005k/QtOpenCoreConfig
-- ohmyzsh: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+- ohmyzsh: 
+	`sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 - hidpi: https://github.com/xzhih/one-key-hidpi
 - App Cleaner: https://freemacsoft.net/appcleaner/
 - The unarchiver: https://theunarchiver.com/
@@ -32,9 +33,16 @@
 
 - xcode: `xcode-select --install `
 
-- 仓库内软件：`brew install microsoft-edge telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh-syntax-highlighting zsh-autosuggestions uninstallpkg sogouinput  you-get yt-dlp mpv iina eudic neovim intellij-idea`
+- 仓库内软件：
+  
+  ```bash
+  brew install microsoft-edge telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh-syntax-highlighting zsh-autosuggestions uninstallpkg  you-get yt-dlp mpv iina eudic neovim intellij-idea miniconda squirrel snipaste suspicious-package
+  ```
 
-
+- 可能需要的软件:
+  ```bash
+    brew install sogouinput 
+  ```
 #### 问题与解答  
 
 1. xcrun: error 
