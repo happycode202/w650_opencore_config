@@ -13,30 +13,48 @@
 #### 常用软件与配置:
 
 - 打开任何源：`sudo spctl --master-disable`
+
 - Clashx: https://github.com/yichengchen/clashX
+
 - Alfred: https://xclient.info/s/alfred.html#versions
+
 - Moom: https://xclient.info/s/moom.html
+
 - Homebrew: https://brew.sh
+
 - Magnet: https://xclient.info/s/magnet.html
+
 - Qtopencoreconfig: https://github.com/ic005k/QtOpenCoreConfig
+
 - ohmyzsh: 
 	`sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+	
 - hidpi: https://github.com/xzhih/one-key-hidpi
+
 - App Cleaner: https://freemacsoft.net/appcleaner/
+
 - The unarchiver: https://theunarchiver.com/
--  Itlwm: https://github.com/OpenIntelWireless/itlwm
+
+- Itlwm: https://github.com/OpenIntelWireless/itlwm
+
 - Downie: https://xclient.info/s/downie.html
+
 - Office : https://xclient.info/s/office-for-mac.html
+
 - Typora: https://xclient.info/s/typora.html
+
 - Dash: https://xclient.info/s/dash.html
+
 - Tampermonkey: https://macapp.org.cn/app/tampermonkey.html
+
+- App cleaner & uninstaller pro:https://xclient.info/s/app-cleaner-uninstaller-pro.html
 
 - xcode: `xcode-select --install `
 
 - 仓库内软件：
   
   ```bash
-  brew install microsoft-edge telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh-syntax-highlighting zsh-autosuggestions uninstallpkg  you-get yt-dlp mpv iina eudic neovim intellij-idea miniconda squirrel snipaste suspicious-package
+  brew install microsoft-edge telegram-desktop sublime-text visual-studio-code iterm2 karabiner-elements hackintool zsh-syntax-highlighting zsh-autosuggestions uninstallpkg  you-get yt-dlp mpv iina eudic neovim intellij-idea miniconda squirrel snipaste 
   ```
 
 - 可能需要的软件:
@@ -60,7 +78,7 @@
 4. alfred最新版(tnt)不能用,改用旧版解决(新版已经解决）
 5. 系统启动时间很长,根据代码发现是蓝牙驱动的问题,升级到特定的蓝牙驱动或者直接不加载蓝牙驱动(新驱动已经解决）
 
-6. IntelliJ idea激活：https://chip-tail-e93.notion.site/Ja-netfilter-9886afbfe1ed4d5e90a713e63718f647#0c547d669d9c463d8136b4c30e156a1c
+6. IntelliJ idea激活：[JETBRA.IN CHECKER | IPFS](https://3.jetbra.in/)
 
 #### 常用快捷键
 
