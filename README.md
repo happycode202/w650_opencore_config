@@ -1,5 +1,5 @@
 # w650_opencore_config
-对应系统为Monterey，wifi驱动也是对应的版本.
+Ventura
 #### 电脑配置
 
 - cpu:i7-7700
